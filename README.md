@@ -1,6 +1,6 @@
 Welcome to my Github Profile. <div align = 'right'>![](https://komarev.com/ghpvc/?username=abidali671&color=yellow)</div>
 <hr/>
-<samp>I am <b>Abid Ali</b>,  I'm 💻 a Full Stack Developer with expertise in TypeScript, Next.js, Gatsby, React, and React Native. With over 🌟3 years of experience in the field, I have honed my skills and acquired a deep understanding of web development.
+<samp>I am <b>Abid Ali</b> 💻 a <b>Full Stack Developer</b> with expertise in TypeScript, Next.js, Gatsby, React, and React Native. With over 🌟3 years of experience in the field, I have honed my skills and acquired a deep understanding of web development.
 <br/>
 <br/>
   I have ✅successfully delivered a wide range of projects, including 🌐web applications, 📱mobile apps, and ✨interactive user interfaces. I have a strong background in 🌐API integration, allowing me to seamlessly connect front-end applications with back-end services 
