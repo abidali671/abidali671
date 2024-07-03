@@ -54,13 +54,7 @@ Welcome to my Github Profile. <div align = 'right'>![](https://komarev.com/ghpvc
   <tbody>
     <tr>
       <td>
-        <a
-          href="https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer"
-          rel="nofollow"
-          target="_blank"
-        >
           🌐<b>Frontend</b>
-        </a>
       </td>
       <td>
         <a
@@ -183,13 +177,7 @@ Welcome to my Github Profile. <div align = 'right'>![](https://komarev.com/ghpvc
     </tr>
     <tr>
       <td>
-        <a
-          href="https://www.techopedia.com/definition/29568/back-end-developer#:~:text=A%20back%2Dend%20developer%20is,front%2Dend%20application%20or%20system."
-          rel="nofollow"
-          target="_blank"
-        >
           💻<b>Backend</b>
-        </a>
       </td>
       <td>
         <a href="https://nodejs.org/en/" rel="nofollow" target="_blank">
@@ -230,12 +218,7 @@ Welcome to my Github Profile. <div align = 'right'>![](https://komarev.com/ghpvc
     </tr>
     <tr>
       <td>
-        <a
-          href="https://www.techtarget.com/searchdatamanagement/definition/database#:~:text=A%20database%20is%20information%20that,data%2C%20financials%20and%20product%20information."
-          target="_blank"
-        >
           ⚡<b>Database</b>
-        </a>
       </td>
       <td>
         <a href="https://www.postgresql.org/" rel="nofollow" target="_blank">
@@ -268,12 +251,7 @@ Welcome to my Github Profile. <div align = 'right'>![](https://komarev.com/ghpvc
     </tr>
     <tr>
       <td>
-        <a
-          target="_blank"
-          href="https://www.techtarget.com/searchdatamanagement/definition/database#:~:text=A%20database%20is%20information%20that,data%2C%20financials%20and%20product%20information."
-        >
           🔍<b>Testing</b>
-        </a>
       </td>
       <td>
         <a href="https://jestjs.io/" rel="nofollow" target="_blank">
