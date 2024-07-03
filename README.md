@@ -1,4 +1,4 @@
-Welcome to my Github Profile. <div align = 'right'>![](https://komarev.com/ghpvc/?username=abidali671&color=yellow)</div>
+Welcome to my Github Profile. <img src="https://img.shields.io/github/followers/abidali671?style=social&label=Follow&maxAge=z" align = 'right'><img src="https://komarev.com/ghpvc/?username=abidali671&color=yellow" alt="abidali671" align = 'right'/>
 <hr/>
 <samp>I am <b>Abid Ali</b> 💻 a <b>Full Stack Developer</b> with expertise in TypeScript, Next.js, Gatsby, React, and React Native. With over 🌟3 years of experience in the field, I have honed my skills and acquired a deep understanding of web development.
 <br/>
