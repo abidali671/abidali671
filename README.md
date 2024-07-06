@@ -198,22 +198,6 @@ Welcome to my Github Profile. <a href="https://github.com/abidali671?tab=followe
             src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
             style="max-width: 100%"
         /></a>
-        <a href="https://www.djangoproject.com/" rel="nofollow" target="_blank">
-          <img
-            alt="Django"
-            src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"
-            style="max-width: 100%"
-        /></a>
-        <a
-          href="https://www.django-rest-framework.org/"
-          rel="nofollow"
-          target="_blank"
-        >
-          <img
-            alt="DjangoREST"
-            src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"
-            style="max-width: 100%"
-        /></a>
       </td>
     </tr>
     <tr>
@@ -221,13 +205,6 @@ Welcome to my Github Profile. <a href="https://github.com/abidali671?tab=followe
           ⚡<b>Database</b>
       </td>
       <td>
-        <a href="https://www.postgresql.org/" rel="nofollow" target="_blank">
-          <img
-            alt="Postgres"
-            src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"
-            data-canonical-src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"
-            style="max-width: 100%"
-        /></a>
         <a href="https://www.mongodb.com/" rel="nofollow" target="_blank">
           <img
             alt="MongoDB"
@@ -264,6 +241,36 @@ Welcome to my Github Profile. <a href="https://github.com/abidali671?tab=followe
           <img
             alt="Cypress"
             src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white"
+            style="max-width: 100%"
+        /></a>
+      </td>
+    </tr>
+        <tr>
+      <td>
+          📖<b>Learning</b>
+      </td>
+      <td>
+        <a href="https://www.postgresql.org/" rel="nofollow" target="_blank">
+          <img
+            alt="Postgres"
+            src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"
+            data-canonical-src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"
+            style="max-width: 100%"
+        /></a>
+                <a href="https://www.djangoproject.com/" rel="nofollow" target="_blank">
+          <img
+            alt="Django"
+            src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"
+            style="max-width: 100%"
+        /></a>
+        <a
+          href="https://www.django-rest-framework.org/"
+          rel="nofollow"
+          target="_blank"
+        >
+          <img
+            alt="DjangoREST"
+            src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"
             style="max-width: 100%"
         /></a>
       </td>
