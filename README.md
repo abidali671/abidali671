@@ -173,6 +173,12 @@ Welcome to my Github Profile. <a href="https://github.com/abidali671?tab=followe
             src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"
             style="max-width: 100%"
         /></a>
+        <a href="https://www.framer.com/" rel="nofollow" target="_blank">
+          <img
+            alt="Framer Motion"
+            src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"
+            style="max-width: 100%"
+        /></a>
       </td>
     </tr>
     <tr>
