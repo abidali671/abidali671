@@ -204,6 +204,12 @@ Welcome to my Github Profile. <a href="https://github.com/abidali671?tab=followe
             src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
             style="max-width: 100%"
         /></a>
+        <a href="https://socket.io/" rel="nofollow" target="_blank">
+          <img
+            alt="Socket.io"
+            src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=ffdd54"
+            style="max-width: 100%"
+        /></a>
       </td>
     </tr>
     <tr>
