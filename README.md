@@ -139,6 +139,12 @@ Welcome to my Github Profile. <a href="https://github.com/abidali671?tab=followe
             src="https://img.shields.io/badge/next_js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=%2361DAFB"
             style="max-width: 100%"
         /></a>
+          <a href="https://nextjs.org/" rel="nofollow" target="_blank">
+          <img
+            alt="Angular"
+            src="https://img.shields.io/badge/Angular-FF10F0.svg?style=for-the-badge&logo=angular&logoColor=%0F0F11"
+            style="max-width: 100%"
+        /></a>
         <a href="https://react-hook-form.com/" rel="nofollow" target="_blank">
           <img
             alt="React Hook Form"
