@@ -43,6 +43,19 @@ Welcome to my Github Profile. <a href="https://github.com/abidali671?tab=followe
   /></a>
 </div>
 <hr/>
+
+## What I'm building
+
+- **[OG Scope](https://www.ogscope.pk/)**: a free Open Graph checker. Paste a URL to see its OG tags, Twitter card tags, image check and estimated link previews for Facebook, LinkedIn, X, WhatsApp, Slack, Discord and Telegram.
+- **[Digital Dialogue](https://digitaldialogue.pk)**: practical freelancing guides for Upwork and Fiverr beginners, written from real client work in Pakistan.
+- **[Meme Tap](https://memetap.pk)**: a free meme soundboard that runs in the browser. No app and no account.
+
+## Recent writing
+
+- [Open Graph Tags Explained](https://qiita.com/abidali671/items/fac7960c1d64afae4770) (Qiita)
+- [Why Your Link Preview Is Broken: 9 Open Graph Mistakes](https://velog.io/@abidali671/Why-Your-Link-Preview-Is-Broken-9-Open-Graph-Mistakes-and-How-to-Fix-Them) (velog)
+- [open-graph-guide](https://github.com/abidali671/open-graph-guide): a copy-paste Open Graph reference for developers
+
 <h3 border="none" align="center">Technology Stacks</h3>
 <table>
   <thead align="center">
