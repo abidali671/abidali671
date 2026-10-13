@@ -50,10 +50,8 @@ Welcome to my Github Profile. <a href="https://github.com/abidali671?tab=followe
 - **[Digital Dialogue](https://digitaldialogue.pk)**: practical freelancing guides for Upwork and Fiverr beginners, written from real client work in Pakistan.
 - **[Meme Tap](https://memetap.pk)**: a free meme soundboard that runs in the browser. No app and no account.
 
-## Recent writing
+## Guides on GitHub
 
-- [Open Graph Tags Explained](https://qiita.com/abidali671/items/fac7960c1d64afae4770) (Qiita)
-- [Why Your Link Preview Is Broken: 9 Open Graph Mistakes](https://velog.io/@abidali671/Why-Your-Link-Preview-Is-Broken-9-Open-Graph-Mistakes-and-How-to-Fix-Them) (velog)
 - [open-graph-guide](https://github.com/abidali671/open-graph-guide): a copy-paste Open Graph reference for developers
 
 <h3 border="none" align="center">Technology Stacks</h3>
